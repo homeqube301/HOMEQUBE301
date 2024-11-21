@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>Status</h1>
 <p align="center">
 <img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=homeqube301&theme=tokyonight" />
