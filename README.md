@@ -1,9 +1,9 @@
 ## Hi there 👋
 <h1>GitHubStatus!</h1>
 <p align="left">
-<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=homeqube301&theme=chartreuse-dark" />
-<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=homeqube301&theme=chartreuse-dark" />
-<img alt="Top Langs" height="176px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homeqube301&theme=chartreuse-dark" />
+<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=homeqube301&theme=tokyonight" />
+<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=homeqube301&theme=tokyonight" />
+<img alt="Top Langs" height="176px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homeqube301&theme=tokyonight" />
   
 <h1>FavoriteTech!</h1>
 <img alt="Top Langs" height="50px" src="https://skillicons.dev/icons?i=swift,firebase,nextjs,ts,rails&perline=" />
